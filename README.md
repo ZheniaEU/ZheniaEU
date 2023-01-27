@@ -10,8 +10,8 @@
 <a href="https://discordapp.com/users/254573323298537473/">
    <img align="left" alt="Evgeny Discord" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
-<a href="mailto:test@gmail.соm">
-   <img align="left" style=" margin-left:10px" target="_blank" alt="Evgeny email" width="40px" src="https://cdn.icon-icons.com/icons2/2631/PNG/64/gmail_new_logo_icon_159149.png" />
+<a href="https://t.me/PrivateNPC">
+   <img align="left" style=" margin-left: 10px" target="_blank" alt="Evgeny email" width="40px" src="https://imgur.com/kRthD47.png" />
 </a>  
 </br>  
 
