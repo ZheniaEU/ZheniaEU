@@ -2,7 +2,7 @@
 # Здарова Катаны
 <img alt="Cat" align="right" style="margin-left: 500px;" width="250px" src="https://media.tenor.com/yceUgMM2xsUAAAAd/cat-glasses.gif" />
 
-Я действующий FullStack разработчик.
+Я действующий FullStack разработчик.</br>
 Я именно тот кот, который по ночам пишет за кого-то код.
 
 ### Связаться со мной
