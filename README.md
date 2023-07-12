@@ -8,7 +8,7 @@
 ### Связаться со мной
 
 <a href="https://discordapp.com/users/254573323298537473/">
-   <img align="left" alt="Evgeny Discord" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+   <img align="left" alt="Evgeny Discord" width="40px" src="./logo/discord.png" />
 </a>
 </br>
 
