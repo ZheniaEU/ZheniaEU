@@ -7,13 +7,15 @@
 
 ### Связаться со мной
 
-<a href="https://discordapp.com/users/254573323298537473/">
-   <img style="padding: 0px;" align="left" alt="Evgeny Discord" width="40px" src="./logo/discord.png" />
-</a>
-<div style="margin-top: 2px;">
-  <a href="https://t.me/ZheniaEK">
-     <img align="left" alt="Evgeny Telegram" width="36px" src="./logo/telegram.svg" />
-  </a>
+<div>
+   <a href="https://discordapp.com/users/254573323298537473/">
+      <img style="Padding: 0px;" align="left" alt="Evgeny Discord" width="40px" src="./logo/discord.png" />
+   </a>
+   <div style="margin-top: 2px;">
+      <a href="https://t.me/ZheniaEK">
+         <img align="left" alt="Evgeny Telegram" width="36px" src="./logo/telegram.svg" />
+      </a>
+   </div>
 </div>
 
 </br>
