@@ -8,12 +8,12 @@
 ### Связаться со мной
 
 <a href="https://discordapp.com/users/254573323298537473/">
-      <img style="padding-right: 10px !important;" align="left" alt="Evgeny Discord" width="40px" src="./logo/d4.svg" />
+      <img align="left" alt="Evgeny Discord" width="40px" src="./logo/d4.svg" />
 </a>
 <a href="https://t.me/ZheniaEK">
-         <img style="margin-left: -10px;" align="left" alt="Evgeny Telegram" width="40px" src="./logo/telegram.svg" />
+         <img align="left" alt="Evgeny Telegram" width="40px" src="./logo/telegram.svg" />
 </a>
-padding-right: 20px
+
 </br>
 
 <!-- иконки и цвета смотреть тут simpleicons.org -->
