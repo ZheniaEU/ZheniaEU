@@ -7,11 +7,11 @@
 
 ### Связаться со мной
 
-<div>
+<div style="position: reletive;">
    <a href="https://discordapp.com/users/254573323298537473/">
-      <img style="Padding: 0px;" align="left" alt="Evgeny Discord" width="40px" src="./logo/discord.png" />
+      <img style="Padding: 0px;" align="left" alt="Evgeny Discord" width="42px" src="./logo/discord.png" />
    </a>
-   <div style="margin-top: 2px;">
+   <div style="top: 5px;">
       <a href="https://t.me/ZheniaEK">
          <img align="left" alt="Evgeny Telegram" width="40px" src="./logo/telegram.svg" />
       </a>
