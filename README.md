@@ -9,7 +9,7 @@
 
 <div style="position: reletive;">
    <a href="https://discordapp.com/users/254573323298537473/">
-      <img style="Padding: 0px;" align="left" alt="Evgeny Discord" width="44px" src="./logo/discord.png" />
+      <img align="left" alt="Evgeny Discord" width="40px" src="./logo/d4.svg" />
    </a>
    <div style="top: 5px;">
       <a href="https://t.me/ZheniaEK">
