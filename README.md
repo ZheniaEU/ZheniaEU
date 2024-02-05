@@ -6,18 +6,12 @@
 Я именно тот кот, который по ночам пишет за кого-то код.
 
 ### Связаться со мной
-
-<div style="position: reletive;">
-   <a href="https://discordapp.com/users/254573323298537473/">
+<a href="https://discordapp.com/users/254573323298537473/">
       <img align="left" alt="Evgeny Discord" width="40px" src="./logo/d4.svg" />
-   </a>
-   <div style="top: 5px;">
-      <a href="https://t.me/ZheniaEK">
+</a>
+<a href="https://t.me/ZheniaEK">
          <img align="left" alt="Evgeny Telegram" width="40px" src="./logo/telegram.svg" />
-      </a>
-   </div>
-</div>
-
+</a>
 </br>
 
 <!-- иконки и цвета смотреть тут simpleicons.org -->
