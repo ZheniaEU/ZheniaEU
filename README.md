@@ -21,7 +21,6 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=TypeScript&logoColor=3178C6)
 ![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=React&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/Redux-0d1117?style=for-the-badge&logo=Redux&logoColor=764ABC)
-<!-- ![Vue.js](https://img.shields.io/badge/Vue.js-0d1117?style=for-the-badge&logo=Vue.js&logoColor=4FC08D) -->
 ![Jest](https://img.shields.io/badge/Jest-0d1117?style=for-the-badge&logo=Jest&logoColor=C21325)
 ![Cypress](https://img.shields.io/badge/Cypress-0d1117?style=for-the-badge&logo=Cypress&logoColor=649d8c)
 ![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=MongoDB&logoColor=47A248)
