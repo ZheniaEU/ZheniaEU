@@ -10,10 +10,12 @@
 <a href="https://discordapp.com/users/254573323298537473/">
    <img align="left" alt="Evgeny Discord" width="40px" src="./logo/discord.png" />
 </a>
-<a href="https://t.me/ZheniaEK">
-   <img align="left" alt="Evgeny Telegtam" width="36px" src="./logo/telegram.svg"
-   style="margin-top: 2px; margin-left: 5px" />
-</a>
+<div style="margin-top: 2px;">
+  <a href="https://t.me/ZheniaEK">
+     <img align="left" alt="Evgeny Telegram" width="36px" src="./logo/telegram.svg" />
+  </a>
+</div>
+
 </br>
 
 <!-- иконки и цвета смотреть тут simpleicons.org -->
