@@ -11,7 +11,7 @@
       <img align="left" alt="Evgeny Discord" width="40px" src="./logo/d4.svg" />
 </a>
 <a href="https://t.me/ZheniaEK">
-         <img align="left" alt="Evgeny Telegram" width="40px" src="./logo/telegram.svg" />
+      <img align="left" alt="Evgeny Telegram" width="40px" src="./logo/telegram.svg" />
 </a>
 
 </br>
