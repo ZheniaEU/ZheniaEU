@@ -13,7 +13,7 @@
    </a>
    <div style="margin-top: 2px;">
       <a href="https://t.me/ZheniaEK">
-         <img align="left" alt="Evgeny Telegram" width="36px" src="./logo/telegram.svg" />
+         <img align="left" alt="Evgeny Telegram" width="40px" src="./logo/telegram.svg" />
       </a>
    </div>
 </div>
